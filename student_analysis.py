@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Loading Data
 # ----------------------------
 #loading the student data from a csv file
-df_students = pd.read_csv('student.csv')
+df_students = pd.read_csv('students.csv')
 #showing the student data
 print(df_students)
 
